@@ -5,7 +5,7 @@ from keras.utils import to_categorical
 from keras.utils import plot_model
 
 
-
+#test git
 # Generate dummy data
 import numpy as np
 x_train = np.random.random((1000, 20))
